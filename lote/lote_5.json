@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "nomeLote": "Sul de Minas - Toninho (2026)",
+  "regiao": "Sul de Minas (regi\u00E3o Vulc\u00E2nica)",
+  "cidade": "Ibitiura de Minas/MG",
+  "varietal": "Novo Mundo",
+  "altitude": 900,
+  "dataCompra": {
+    "dia": 28,
+    "mes": 3,
+    "ano": 2026,
+    "hora": 0,
+    "minuto": 0,
+    "segundo": 0,
+    "milissegundo": 0
+  },
+  "nomeFornecedor": "Toninho",
+  "pontuacaoSca": 86,
+  "preparo": 1,
+  "pesoLote": 30,
+  "numeracaoPredominante": 16,
+  "direcaoPeneira": 2,
+  "formatoPredominante": 1,
+  "certificacoesIds": [
+    2
+  ]
+}

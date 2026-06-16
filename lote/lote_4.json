@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "nomeLote": "Sul de Minas - Toninho (2020)",
+  "regiao": "Sul de Minas",
+  "cidade": "Ibitiura/MG",
+  "varietal": "Mundo Novo",
+  "altitude": 930,
+  "dataCompra": {
+    "dia": 25,
+    "mes": 10,
+    "ano": 2020,
+    "hora": 0,
+    "minuto": 0,
+    "segundo": 0,
+    "milissegundo": 0
+  },
+  "nomeFornecedor": "Toninho",
+  "pontuacaoSca": 86,
+  "preparo": 3,
+  "pesoLote": 60,
+  "numeracaoPredominante": 17,
+  "direcaoPeneira": 2,
+  "formatoPredominante": 1,
+  "certificacoesIds": []
+}

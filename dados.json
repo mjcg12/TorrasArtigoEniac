@@ -1,0 +1,137 @@
+{
+  "certificacoes": [
+    {
+      "id": 1,
+      "nome": "Org\u00E2nico",
+      "descricao": "Garante que o caf\u00E9 \u00E9 cultivado sem o uso de pesticidas e fertilizantes qu\u00EDmicos"
+    },
+    {
+      "id": 2,
+      "nome": "Fair Trade",
+      "descricao": "Assegura que os produtores de caf\u00E9 recebem um pre\u00E7o justo e que s\u00E3o respeitados os direitos trabalhistas"
+    },
+    {
+      "id": 3,
+      "nome": "Rainforest Alliance",
+      "descricao": "Promove pr\u00E1ticas agr\u00EDcolas sustent\u00E1veis e a conserva\u00E7\u00E3o da biodiversidade"
+    },
+    {
+      "id": 4,
+      "nome": "UTZ",
+      "descricao": "Garante a produ\u00E7\u00E3o respons\u00E1vel, com foco em boas pr\u00E1ticas agr\u00EDcolas e melhores condi\u00E7\u00F5es de vida para os agricultores"
+    },
+    {
+      "id": 5,
+      "nome": "4C",
+      "descricao": "Promove a sustentabilidade ao longo de toda a cadeia produtiva do caf\u00E9"
+    },
+    {
+      "id": 6,
+      "nome": "Com\u00E9rcio Justo Org\u00E2nico",
+      "descricao": "Combina os benef\u00EDcios do com\u00E9rcio justo com os padr\u00F5es de cultivo org\u00E2nico"
+    }
+  ],
+  "formatosGrao": [
+    {
+      "key": 1,
+      "value": "Gr\u00E3os Chatos"
+    },
+    {
+      "key": 2,
+      "value": "Gr\u00E3os Moca"
+    }
+  ],
+  "direcoesPeneira": [
+    {
+      "key": 1,
+      "value": "Peneira Abaixo"
+    },
+    {
+      "key": 2,
+      "value": "Peneira Acima"
+    }
+  ],
+  "preparos": [
+    {
+      "key": 1,
+      "value": "Natural"
+    },
+    {
+      "key": 2,
+      "value": "Cereja Descascado"
+    },
+    {
+      "key": 3,
+      "value": "Despolpado"
+    }
+  ],
+  "notasSensoriais": [
+    {
+      "key": 1,
+      "value": "Notas Vegetais"
+    },
+    {
+      "key": 2,
+      "value": "Notas Florais"
+    },
+    {
+      "key": 3,
+      "value": "Notas Frutadas"
+    },
+    {
+      "key": 4,
+      "value": "Notas de Caramelo"
+    },
+    {
+      "key": 5,
+      "value": "Notas de Chocolate"
+    },
+    {
+      "key": 6,
+      "value": "Sabor Ran\u00E7oso"
+    }
+  ],
+  "pontosTorra": [
+    {
+      "id": 95,
+      "nome": "Clara (95)",
+      "cor": "#FFD5A470"
+    },
+    {
+      "id": 85,
+      "nome": "Clara (85)",
+      "cor": "#FFAC7E59"
+    },
+    {
+      "id": 75,
+      "nome": "Clara (75)",
+      "cor": "#FFA27450"
+    },
+    {
+      "id": 65,
+      "nome": "M\u00E9dia (65)",
+      "cor": "#FF90654C"
+    },
+    {
+      "id": 55,
+      "nome": "M\u00E9dia (55)",
+      "cor": "#FF896248"
+    },
+    {
+      "id": 45,
+      "nome": "Escura (45)",
+      "cor": "#FF8C6A4C"
+    },
+    {
+      "id": 35,
+      "nome": "Escura (35)",
+      "cor": "#FF614935"
+    },
+    {
+      "id": 25,
+      "nome": "Escura (25)",
+      "cor": "#FF584633"
+    }
+  ],
+  "configuracoes": null
+}

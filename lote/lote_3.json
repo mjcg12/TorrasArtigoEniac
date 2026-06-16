@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "nomeLote": "Blend Aloise",
+  "regiao": "Mogi das Cruzes",
+  "cidade": "Mogi das Cruzes/SP",
+  "varietal": "Catua\u00ED Vermelho, Amarelo e Novo Mundo",
+  "altitude": 760,
+  "dataCompra": {
+    "dia": 10,
+    "mes": 8,
+    "ano": 2023,
+    "hora": 0,
+    "minuto": 0,
+    "segundo": 0,
+    "milissegundo": 0
+  },
+  "nomeFornecedor": "Marco Aur\u00E9lio Aloise",
+  "pontuacaoSca": 84,
+  "preparo": 1,
+  "pesoLote": 20,
+  "numeracaoPredominante": 16,
+  "direcaoPeneira": 2,
+  "formatoPredominante": 1,
+  "certificacoesIds": []
+}

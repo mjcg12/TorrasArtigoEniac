@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "nomeLote": "Catua\u00ED Amarelo - M\u00E1rcio Westin",
+  "regiao": "Sul de Minas",
+  "cidade": "S\u00E3o Sebasti\u00E3o do Para\u00EDso/MG",
+  "varietal": "Catua\u00ED Amarelo",
+  "altitude": 1183,
+  "dataCompra": {
+    "dia": 22,
+    "mes": 3,
+    "ano": 2025,
+    "hora": 0,
+    "minuto": 0,
+    "segundo": 0,
+    "milissegundo": 0
+  },
+  "nomeFornecedor": "Caffer",
+  "pontuacaoSca": 84,
+  "preparo": 2,
+  "pesoLote": 64,
+  "numeracaoPredominante": 15,
+  "direcaoPeneira": 2,
+  "formatoPredominante": 1,
+  "certificacoesIds": [
+    2
+  ]
+}
